@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: simple-html
-        image: YOUR_DOCKERHUB_USERNAME/simple-html:latest
+        image: subhamdevbehera/simple-html:9
         ports:
         - containerPort: 80
